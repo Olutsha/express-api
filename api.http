@@ -1,0 +1,21 @@
+POST https://localhost:4009/api/greet
+content-type: application/json
+
+{
+"language": "Xhosa",
+"greeting":"Molo"
+}
+POST https://localhost:4009/api/greet
+content-type: application/json
+
+{
+"language": "zulu",
+"greeting":"sakubona"
+}
+POST https://localhost:4009/api/greet
+content-type: application/json
+
+{
+"language": "english",
+"greeting":"hello"
+}
