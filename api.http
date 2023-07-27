@@ -1,18 +1,21 @@
-POST https://localhost:4009/api/greet
+###
+POST https://greetings-api-ir9y.onrender.com/api/greet
 content-type: application/json
 
 {
 "language": "Xhosa",
 "greeting":"Molo"
 }
-POST https://localhost:4009/api/greet
+###
+POST https://greetings-api-ir9y.onrender.com/api/greet
 content-type: application/json
 
 {
 "language": "zulu",
 "greeting":"sakubona"
 }
-POST https://localhost:4009/api/greet
+###
+POST https://greetings-api-ir9y.onrender.com/api/greet
 content-type: application/json
 
 {
